@@ -5,9 +5,9 @@
 }
 
 body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 900px;
+    margin: auto;
+    background: #3f33e1;
 }
 
 #menu{
@@ -16,11 +16,27 @@ body{
     background-color:#00FFCC;
 }
 
+.logomarca{
+    width: 150px;
+    height: 50px;
+    background: #ffffff;
+    margin: 10px;
+}
+
+.menu{
+    width: 150px;
+    height: 50px;
+    background: #a27e7e;
+    margin: 10px;    
+}
+
 #banner{
     width: 900px;
     height: 500px;
     background-color: #CC0066;
 }
+
+
 
 #container-dois{
     width: 900px;
