@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu{
+    width: 900px;
+    height: 60px;
+    background-color:#00FFCC;
+}
+
+#banner{
+    width: 900px;
+    height: 500px;
+    background-color: #CC0066;
+}
+
+#container-dois{
+    width: 900px;
+    height: 560px;
+    background-color: #e1338a;
+}
+#container-tres{
+    width: 900px;
+    height: 560px;
+    background-color: #3c907793;
+}
+#container-quatro{
+    width: 900px;
+    height: 560px;
+    background-color: #3f33e1;
+}
